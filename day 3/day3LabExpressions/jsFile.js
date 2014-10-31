@@ -25,3 +25,8 @@ var g4= 210;
 var g5= 125;
 
 //total amount spent on groceries
+var total=g1+g2+g3+g4+g5;
+
+//average spending
+var average=5/total;
+
