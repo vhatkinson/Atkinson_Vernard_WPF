@@ -34,3 +34,7 @@ var average=(total/5);
 console.log("You have spent a total of $"+total+" "+"on groceries over 5 weeks. That is an average of $"+average+" "+"per week");
 
 
+//discounts
+var price=100;
+
+
