@@ -21,3 +21,4 @@ console.log("sparky gets"+" "+sparky+" "+"slices of pizza");
 var g1= 250;
 var g2= 130;
 var g3= 110;
+var g4= 210;
