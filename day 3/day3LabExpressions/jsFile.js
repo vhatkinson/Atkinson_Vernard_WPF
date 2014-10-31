@@ -35,6 +35,23 @@ console.log("You have spent a total of $"+total+" "+"on groceries over 5 weeks. 
 
 
 //discounts
+//original price
 var price=100;
+//discount percent
+var discount=5;
+//description of item
+var item="jacket";
+//sales tax
+var tax=10;
+
+//finding the decimal of percents
+var discount2=discount/100;
+var tax2=tax/100;
+
+//price with percent
+var discountprice=(price*discount2+price);
+var discountTaxPrice
+
+
 
 
