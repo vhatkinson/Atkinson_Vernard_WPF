@@ -9,10 +9,9 @@ var slices= 8;
 var people= 14;
 //number of pizzas ordered
 var pizzas=2;
+//slices each person ate
 var slicesPP= ((slices*pizzas)/people);
-console.log ("the number of slices each person would eat would be"+" "+slicesPP);
+console.log("the number of slices each person ate were"+" "+slicesPP);
 
-
-
-
-
+//number of slices sparky gets to eat
+var sparky=(%slicesPP)
