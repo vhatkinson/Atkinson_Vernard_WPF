@@ -14,4 +14,6 @@ var slicesPP= ((slices*pizzas)/people);
 console.log("the number of slices each person ate were"+" "+slicesPP);
 
 //number of slices sparky gets to eat
-var sparky=(%slicesPP)
+var sparky=(slicesPP%(slices*pizzas));
+console.log("sparky gets"+" "+sparky+" "+"slices of pizza");
+
