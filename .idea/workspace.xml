@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49986cad-85fe-4723-b20f-9ed7ec71b958" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/day 3/day3LabExpressions/atkinsonVernardLabExpressions.html" afterPath="$PROJECT_DIR$/day 3/atkinsonVernardLabExpressions.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 3/day3LabExpressions/jsFile.js" afterPath="$PROJECT_DIR$/day 3/day3LabExpressions/jsFile.js" />
     </list>
     <ignored path="Atkinson_Vernard_WPF.iws" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="jsFile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day 3/day3LabExpressions/jsFile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06818182" vertical-offset="0" max-vertical-offset="660">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.13636364" vertical-offset="0" max-vertical-offset="660">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
@@ -330,8 +329,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day 3/day3LabExpressions/jsFile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06818182" vertical-offset="0" max-vertical-offset="660">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.13636364" vertical-offset="0" max-vertical-offset="660">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="e#0#42#0" expanded="false" />
           </folding>
