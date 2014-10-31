@@ -14,7 +14,7 @@ var slicesPP= ((slices*pizzas)/people);
 console.log("the number of slices each person ate were"+" "+slicesPP);
 
 //number of slices sparky gets to eat
-var sparky=(slicesPP%(slices*pizzas));
+var sparky=((slices*pizzas)%people);
 console.log("sparky gets"+" "+sparky+" "+"slices of pizza");
 
 //grocery bills
@@ -23,3 +23,5 @@ var g2= 130;
 var g3= 110;
 var g4= 210;
 var g5= 125;
+
+//total amount spent on groceries
