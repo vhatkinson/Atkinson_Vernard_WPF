@@ -49,9 +49,10 @@ var discount2=discount/100;
 var tax2=tax/100;
 
 //price with percent
-var discountprice=(price*discount2+price);
-var discountTaxPrice
+var discountprice=price-(price*discount2);
+var discountTaxPrice=discountprice-(discountprice*tax2);
 
+console.log("Your"+" "+item+" "+"was originally $"+price+", but after a"+" "+discount+"% discount, it is now $"+discountprice+" "+"without tax, and $"+discountTaxPrice+" "+"with tax");
 
 
 
