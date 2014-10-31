@@ -150,7 +150,7 @@ console.log(fullName);
 
 var d="6";
 var e="7";
-var combine=d+e
+var combine=d+e;
 console.log(combine);
 
 // is "6" the same a 6? no, in quote is just text.
