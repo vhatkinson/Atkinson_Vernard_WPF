@@ -28,5 +28,9 @@ var g5= 125;
 var total=g1+g2+g3+g4+g5;
 
 //average spending
-var average=5/total;
+var average=(total/5);
+
+//written out
+console.log("You have spent a total of $"+total+" "+"on groceries over 5 weeks. That is an average of $"+average+" "+"per week");
+
 
