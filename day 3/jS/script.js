@@ -54,7 +54,7 @@ console.log(myAge);
 //base*height/2
 var base=20;
 var height=15;
-var areaTriangle = base*height/2
+var areaTriangle = base*height/2;
 console.log(areaTriangle);
 
 //modulo-%
@@ -67,7 +67,7 @@ console.log(remainder);
 //1- odd number
 //0- even
 
-var evenOrOdd=67%2
+var evenOrOdd=67%2;
 console.log(evenOrOdd);
 
 //assignment operator
@@ -107,7 +107,7 @@ console.log(frogName);
 //escape character \ in front of the character
 // multiline break \n new line character
 
-var phrase= "i don\'t know \nYou never know!"
+var phrase= "i don\'t know \nYou never know!";
 console.log(phrase);
 
 //boolean
