@@ -17,3 +17,4 @@ var netting=prompt("How much did it cost to get your netting and head strung?");
 //calculate total cost
 var totalCost=parseInt(stick)+parseInt(head)+parseInt(netting);
 console.log(totalCost);
+alert("The total cost of your new lacrosse stick would be $"+totalCost);
