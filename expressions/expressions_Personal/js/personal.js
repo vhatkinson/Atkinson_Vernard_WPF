@@ -12,4 +12,6 @@
 var stick=prompt("We are calculating the price of your new lacrosse stick.\nEnter the price of the lacrosse stick.");
 //price of the head
 var head=prompt("enter the price of your lacrosse head");
+//price of netting the lacrosse head.
+var netting=prompt("How much did it cost to get your netting and head strung?");
 
