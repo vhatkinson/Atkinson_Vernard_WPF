@@ -6,7 +6,7 @@
  */
 //alert("testing 1,2,3");
 
-//How much money will you make in a year
+//How much extra spending money will you have in a year.
 //information about yourself
 
 //how much money is made per hour.
@@ -22,3 +22,4 @@ console.log(personalInfo);
 //calculating how much money person will make a year.
 var spendingMoney =personalInfo[0]*(12*personalInfo[1])-(12*personalInfo[2]);
 console.log(spendingMoney);
+alert("You will have $"+spendingMoney+" "+"for blow money in a year.");
