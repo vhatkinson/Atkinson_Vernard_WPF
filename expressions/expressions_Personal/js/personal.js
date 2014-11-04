@@ -7,4 +7,9 @@
 //alert("testing 1,2,3")
 
 //calculating the cost of a new lacrosse stick with tax.
-var stick=prompt("We are calculating the price of your new lacrosse stick and head including tax.\nEnter the price of the lacrosse stick.");
+
+//price of the stick
+var stick=prompt("We are calculating the price of your new lacrosse stick.\nEnter the price of the lacrosse stick.");
+//price of the head
+var head=prompt("enter the price of your lacrosse head");
+
