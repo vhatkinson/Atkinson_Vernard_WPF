@@ -14,4 +14,5 @@ var stick=prompt("We are calculating the price of your new lacrosse stick.\nEnte
 var head=prompt("enter the price of your lacrosse head");
 //price of netting the lacrosse head.
 var netting=prompt("How much did it cost to get your netting and head strung?");
-
+//calculate total cost
+var totalCost=parseInt(stick)+parseInt(head)+parseInt(netting);
