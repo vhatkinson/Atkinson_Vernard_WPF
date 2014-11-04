@@ -15,8 +15,10 @@ var salary=prompt("We will be calculating how much spending money you will have 
 var hoursMonthly=prompt("How many hours do you work per month?");
 //how much money spent on cost of living
 var monthlyExpenses=prompt("how much money do you spend a month on bills, gas, and food?");
-
+//data in an array
 var personalInfo=[salary,hoursMonthly,monthlyExpenses];
-
 console.log(personalInfo);
 
+//calculating how much money person will make a year.
+var spendingMoney =personalInfo[0]*(12*personalInfo[1])-(12*personalInfo[2]);
+console.log(spendingMoney);
