@@ -7,3 +7,5 @@
 //alert("testing 1,2,3");
 
 //create your own rap name
+var animal=prompt("What is your favorite animal?");
+
