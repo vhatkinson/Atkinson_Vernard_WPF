@@ -8,5 +8,6 @@
 
 //create your own rap name
 var color=prompt("what is your favorite color?");
+var verb=prompt("what is your favorite activity");
 
 
