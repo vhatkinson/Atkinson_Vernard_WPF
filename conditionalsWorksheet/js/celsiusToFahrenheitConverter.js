@@ -8,10 +8,12 @@
 //converting celsius to fahrenheit
 //°C  x  9/5 + 32 = °F
 //(°F  -  32)  x  5/9 = °C
+
 var temp=prompt("enter c if converting Celsius to Fahrenheit. \n enter f if converting Fahrenheit to Celsius.");
 if (temp==("c")){
     //calculating celsius to fahrenheit
     var celcius = prompt("enter the degrees in Celsius to find out what it is in Fahrenheit.");
+
     //c-f conversion rate
     var celciusToFahrenheit = celcius * (9 / 5) + 32;
     console.log(celciusToFahrenheit);
@@ -19,6 +21,7 @@ if (temp==("c")){
 }else if (temp==("f")) {
     //calculating fahrenheit to celsius
     var fahrenheit=prompt("enter the degrees in fahrenheit to find out what it is in celsius.");
+
     //f-c conversion rate
     var fahrenheitToCelsius=(fahrenheit-32)*(5/9);
     console.log(fahrenheitToCelsius);

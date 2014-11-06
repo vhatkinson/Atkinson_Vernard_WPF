@@ -13,6 +13,7 @@ tirePressure[1]=prompt("what is your front right tire pressure?");
 tirePressure[2]=prompt("what is your back left tire pressure?");
 tirePressure[3]=prompt("what is your back right tire pressure?");
 console.log(tirePressure);
+
 //finding if true or false
 var results=((tirePressure[0]==tirePressure[1]) && (tirePressure[2]==tirePressure[3]));
 console.log(tirePressure);
