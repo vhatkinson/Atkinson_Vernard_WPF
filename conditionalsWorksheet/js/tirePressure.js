@@ -10,4 +10,4 @@
 var tirePressure=[];
 tirePressure[0]=prompt("what is your front left tire pressure?");
 tirepressure[1]=prompt("what is your front right tir pressure?");
-
+tirePressure[2]=prompt("what is your back left tire pressure?");
