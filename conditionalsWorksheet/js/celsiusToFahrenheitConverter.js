@@ -18,6 +18,5 @@ if (temp==("c")){
     var fahrenheit=prompt("enter the degrees in fahrenheit to find out what it is in celsius.");
     var fahrenheitToCelsius=(fahrenheit-32)*(5/9);
     console.log(fahrenheitToCelsius);
-    
-
+    alert(fahrenheit + " degrees Fahrenheit is " + fahrenheitToCelsius + " degrees Celsius.");
 }
