@@ -9,4 +9,5 @@
 //front tire pressure must mach rear tire pressure
 var tirePressure=[];
 tirePressure[0]=prompt("what is your front left tire pressure?");
+tirepressure[1]=prompt("what is your front right tir pressure?");
 
