@@ -16,6 +16,7 @@ if (temp==("c")){
     alert(celcius + " degrees Celsius is " + celciusToFahrenheit + " degrees Fahrenheit.");
 }else if (temp==("f")) {
     var fahrenheit=prompt("enter the degrees in fahrenheit to find out what it is in celsius.");
+    var fahrenheitToCelsius=(fahrenheit-32)*(5/9);
     
 
 }
