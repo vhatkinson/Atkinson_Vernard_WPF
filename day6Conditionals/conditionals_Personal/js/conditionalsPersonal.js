@@ -21,5 +21,6 @@ console.log(mpg);
 var distance=prompt("how many miles are you from your destination?");
 console.log(distance);
 
-
+//what is the price of a gallon of gas?
+var gas=prompt("what is the price of a gallon of gas?");
 
