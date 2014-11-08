@@ -6,5 +6,8 @@
  */
 //alert("testing 1,2,3");
 
-//I am calculating which will be the best way to travel to my home in delaware.
-alert("We will be calculating the best way for you to travel home over vacation.");
+//we will be deciding if flying or driving will be a better mode of transportation in regards to cost.
+var alert=("We are finding out if flying or driving will be a better mode of transportation.");
+
+//finding the cost of a plane ticket
+var cost=("how much is a plane ticket to your destination?");
