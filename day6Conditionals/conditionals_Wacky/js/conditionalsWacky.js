@@ -20,7 +20,7 @@ var projectedTokenEarning=prompt("How many tokens can you earn?");
 
 //if amount of tokens you have is more or equal to you can get it or if you plan on getting more tokens you can buy it in the future.
 var teddy;
-teddy=(prize<=tokens||projectedTokenEarning>=prize)?("you have/will have enough tokens to buy teddy bear! :)"):
+teddy=(prize<=tokens||(projectedTokenEarning+tokens)>=prize)?("you have/will have enough tokens to buy teddy bear! :)"):
     ("You don't/won't have enough to buy teddy. :(");
 console.log(teddy);
 alert(teddy);
