@@ -25,3 +25,14 @@ idInfo[1]=prompt("Enter a password.");
 while(idInfo[1]==""){
     idInfo[1]=prompt("You must Enter a password.");
 }
+
+
+//now I am making them login using the username and password they created.
+alert("You must log in to access site");
+
+//created second array for logging in.
+var idInfo2=[];
+
+// asking them for username.
+idInfo2[0]=prompt("what is your username?");
+
