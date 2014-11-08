@@ -6,4 +6,8 @@
  */
 //alert("testing 1,2,3");
 
-//we will be finding
+//we will be gathering ID information and then logging in.
+
+//created array for ID information.
+var idInfo=[];
+
