@@ -37,14 +37,15 @@ if (gas==""){
 }
 console.log(gas);
 
+//calculated cost of travelling.
 var drivingCost=(distance/mpg)*(gas);
 console.log(drivingCost);
 
-if (flyingCost<drivingCost){
+if (flyingCost<drivingCost){//if flying is cheaper
     console.log("It would be cheaper to fly.");
-}else if (flyingCost==drivingCost){
+}else if (flyingCost==drivingCost){ //if flying and driving cost the same
     console.log("It cost the same to drive or fly so you get to choose.");
-}else{
+}else{//if driving is cheaper
     console.log("It would be cheaper to drive.");
 }
 
