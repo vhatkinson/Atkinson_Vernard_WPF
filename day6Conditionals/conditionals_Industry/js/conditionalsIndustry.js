@@ -11,11 +11,17 @@
 //created array for ID information.
 var idInfo=[];
 
-//prompt for user first name
-idInfo[0]=prompt("To login to our website you mast create an account. (Don't capitalize letters) \n What is your first name?");
+//prompt for user name
+idInfo[0]=prompt("To login to our website you mast create an account. (Don't capitalize letters) \n Create a username.");
 
-//prompt for user to enter last name
-idInfo[1]=prompt("what is your last name");
-
+//if they don't put anything it will make them do this until they do
+while(idInfo[0]==""){
+    idInfo[0]=prompt("You must enter a username.\n Create a username.");
+}
 //prompt user to enter a password.
-idInfo[2]=prompt("Enter a password");
+idInfo[1]=prompt("Enter a password.");
+
+//if they don't put anything it will make them do this until they do
+while(idInfo[1]==""){
+    idInfo[1]=prompt("You must Enter a password.");
+}
