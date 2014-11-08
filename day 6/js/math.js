@@ -53,3 +53,23 @@ console.log(num8);
 //random integer between 50 and 80
 var num9=Math.round(Math.random()*(80-50)+50);
 console.log(num9);
+
+//prompt user for max and min value
+//then find random number between them.
+var max=prompt("Let's find a random number\nWhat is your max number");
+var min=prompt("what is your minimum number");
+
+//find random integer.
+var randomNum=Math.round(Math.random()*(max-min)+parseInt(min));
+console.log(randomNum);
+console.log("your random number is "+randomNum);
+
+//math class constant
+//number that never changes
+//always uppercase
+//PI=3.1415...
+//circum of circle
+//2*PI*r
+var radius=7;
+var circleArea=2*Math.PI*radius;
+console.log(circleArea);

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="49986cad-85fe-4723-b20f-9ed7ec71b958" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 6/js/math.js" afterPath="$PROJECT_DIR$/day 6/js/math.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Atkinson_Vernard_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="math.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day 6/js/math.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.89285713" vertical-offset="185" max-vertical-offset="900">
-              <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.9357143" vertical-offset="455" max-vertical-offset="1200">
+              <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -566,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day 6/js/math.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89285713" vertical-offset="185" max-vertical-offset="900">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.9357143" vertical-offset="455" max-vertical-offset="1200">
+          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
           <folding />
         </state>
       </provider>
