@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49986cad-85fe-4723-b20f-9ed7ec71b958" name="Default" comment="" />
+    <list default="true" id="49986cad-85fe-4723-b20f-9ed7ec71b958" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day6Conditionals/conditionalsIndustry.html" afterPath="$PROJECT_DIR$/day6Conditionals/conditionals_Industry/conditionalsIndustry.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day6Conditionals/conditionalsPersonal.html" afterPath="$PROJECT_DIR$/day6Conditionals/conditionals_Personal/conditionalsPersonal.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day6Conditionals/conditionalsWacky.html" afterPath="$PROJECT_DIR$/day6Conditionals/conditionals_Wacky/conditionalsWacky.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day6Conditionals/js/conditionalsIndustry.js" afterPath="$PROJECT_DIR$/day6Conditionals/conditionals_Industry/js/conditionalsIndustry.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day6Conditionals/js/conditionalsPersonal.js" afterPath="$PROJECT_DIR$/day6Conditionals/conditionals_Personal/js/conditionalsPersonal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day6Conditionals/js/conditionalsWacky.js" afterPath="$PROJECT_DIR$/day6Conditionals/conditionals_Wacky/js/conditionalsWacky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Atkinson_Vernard_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,17 +33,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="conditionalsPersonal.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionalsPersonal.html">
+        <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionals_Personal/conditionalsPersonal.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
-              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="conditionalsPersonal.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day6Conditionals/js/conditionalsPersonal.js">
+        <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionals_Personal/js/conditionalsPersonal.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.15" vertical-offset="0" max-vertical-offset="700">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -54,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day 3/firstFile.html" />
-        <option value="$PROJECT_DIR$/day 3/day3LabExpressions/atkinsonVernardLabExpressions.html" />
         <option value="$PROJECT_DIR$/day 3/day3LabExpressions/jsFile.js" />
         <option value="$PROJECT_DIR$/day 3/jS/script.js" />
         <option value="$PROJECT_DIR$/day 3/atkinsonVernardLabExpressions.html" />
@@ -105,6 +111,8 @@
         <option value="$PROJECT_DIR$/day6Conditionals/js/conditionalsIndustry.js" />
         <option value="$PROJECT_DIR$/day6Conditionals/js/conditionalsWacky.js" />
         <option value="$PROJECT_DIR$/day6Conditionals/js/conditionalsPersonal.js" />
+        <option value="$PROJECT_DIR$/day6Conditionals/conditionals_Personal/conditionalsPersonal.html" />
+        <option value="$PROJECT_DIR$/day6Conditionals/conditionals_Industry/conditionalsIndustry.html" />
       </list>
     </option>
   </component>
@@ -182,7 +190,53 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day6Conditionals" />
+              <option name="myItemId" value="day 6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Atkinson_Vernard_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Atkinson_Vernard_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Atkinson_Vernard_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Atkinson_Vernard_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conditionalsWorksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Atkinson_Vernard_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Atkinson_Vernard_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conditionalsWorksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -208,9 +262,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day 4/js" />
-      <recent name="$PROJECT_DIR$/day 3" />
-      <recent name="$PROJECT_DIR$/day 3/day3LabExpressions" />
+      <recent name="$PROJECT_DIR$/day6Conditionals/conditionals_Wacky/js" />
+      <recent name="$PROJECT_DIR$/day6Conditionals/conditionals_Personal/js" />
+      <recent name="$PROJECT_DIR$/day6Conditionals/conditionals_Industry/js" />
+      <recent name="$PROJECT_DIR$/day6Conditionals/conditionals_Wacky" />
+      <recent name="$PROJECT_DIR$/day6Conditionals/conditionals_Personal" />
     </key>
   </component>
   <component name="RunManager">
@@ -466,14 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conditionalsWorksheet/CelsiusToFahrenheitConverter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conditionalsWorksheet/gradeLetterCalculator.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
@@ -524,30 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19285715" vertical-offset="0" max-vertical-offset="1035">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionalsWorksheet/js/gradeLetterCalculator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionalsWorksheet/js/celsiusToFahrenheitConverter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="19" column="91" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionalsWorksheet/js/tirePressure.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34285715" vertical-offset="0" max-vertical-offset="700">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,7 +628,7 @@
         <state vertical-scroll-proportion="0.47142857" vertical-offset="0" max-vertical-offset="700">
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -617,15 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionalsPersonal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day6Conditionals/js/conditionalsWacky.js">
+    <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionals_Wacky/js/conditionalsWacky.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08571429" vertical-offset="0" max-vertical-offset="700">
           <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
@@ -633,7 +649,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionalsWacky.html">
+    <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionals_Industry/js/conditionalsIndustry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08571429" vertical-offset="0" max-vertical-offset="700">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionals_Wacky/conditionalsWacky.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.088757396" vertical-offset="0" max-vertical-offset="676">
           <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
@@ -641,23 +665,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day6Conditionals/js/conditionalsIndustry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08571429" vertical-offset="0" max-vertical-offset="700">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionalsIndustry.html">
+    <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionals_Industry/conditionalsIndustry.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.088757396" vertical-offset="0" max-vertical-offset="676">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day6Conditionals/js/conditionalsPersonal.js">
+    <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionals_Personal/conditionalsPersonal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditionalsWorksheet/CelsiusToFahrenheitConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.110946745" vertical-offset="0" max-vertical-offset="676">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditionalsWorksheet/js/celsiusToFahrenheitConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40714285" vertical-offset="0" max-vertical-offset="700">
+          <caret line="19" column="91" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditionalsWorksheet/js/gradeLetterCalculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32142857" vertical-offset="0" max-vertical-offset="700">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditionalsWorksheet/js/tirePressure.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34285715" vertical-offset="0" max-vertical-offset="700">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day6Conditionals/conditionals_Personal/js/conditionalsPersonal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15" vertical-offset="0" max-vertical-offset="700">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
