@@ -16,3 +16,10 @@ console.log(cost);
 //what is the MPG of your vehicle?
 var mpg=prompt("what is the miles per gallon of your vehicle?");
 console.log(mpg);
+
+//how many miles are you from your destination?
+var distance=prompt("how many miles are you from your destination?");
+console.log(distance);
+
+
+
