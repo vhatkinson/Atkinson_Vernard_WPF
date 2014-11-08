@@ -11,15 +11,15 @@ alert("We are finding out if flying or driving will be a better mode of transpor
 
 //finding the cost of a plane ticket
 var flyingCost=prompt("How much is a plane ticket to your destination?");
-if(flyingCost==""){
+while(flyingCost==""){
     flyingCost=prompt("How much is a plane ticket to your destination?");
 }
 console.log(flyingCost);
 
 //what is the MPG of your vehicle?
 var mpg=prompt("What is the miles per gallon of your vehicle?");
-if(mpg==""){
-    mpg=("What is the miles per gallon of your vehicle?");
+while(mpg==""){
+    mpg=prompt("What is the miles per gallon of your vehicle?");
 }
 console.log(mpg);
 
@@ -32,8 +32,8 @@ console.log(distance);
 
 //what is the price of a gallon of gas?
 var gas=prompt("What is the price of a gallon of gas?");
-if (gas==""){
-    gas=("What is the price of a gallon of gas?");
+while (gas==""){
+    gas=prompt("What is the price of a gallon of gas?");
 }
 console.log(gas);
 
