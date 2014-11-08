@@ -34,5 +34,8 @@ alert("You must log in to access site");
 var idInfo2=[];
 
 // asking them for username.
-idInfo2[0]=prompt("what is your username?");
+idInfo2[0]=prompt("What is your username?");
+
+//asking them for password.
+idInfo2[1]=prompt("What is your password");
 
