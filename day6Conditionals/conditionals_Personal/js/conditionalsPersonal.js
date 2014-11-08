@@ -7,7 +7,12 @@
 //alert("testing 1,2,3");
 
 //we will be deciding if flying or driving will be a better mode of transportation in regards to cost.
-var alert=("We are finding out if flying or driving will be a better mode of transportation.");
+alert("We are finding out if flying or driving will be a better mode of transportation.");
 
 //finding the cost of a plane ticket
-var cost=("how much is a plane ticket to your destination?");
+var cost=prompt("how much is a plane ticket to your destination?");
+console.log(cost);
+
+//what is the MPG of your vehicle?
+var mpg=prompt("what is the miles per gallon of your vehicle?");
+console.log(mpg);
