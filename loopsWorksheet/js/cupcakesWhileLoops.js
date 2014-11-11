@@ -20,7 +20,7 @@ while(cupcakes===""||isNaN(cupcakes)) {
         cupcakes=prompt("How many cupcakes would you like to make? \nPlease only type in numbers.");
     }
 }
-
+console.log(cupcakes);
 //number of cupcakes a box of batter makes
 var cupcakesPerBox=prompt("How many cupcakes does a box of cupcake batter make?");
 
@@ -32,9 +32,12 @@ while(cupcakesPerBox===""||isNaN(cupcakes)) {
             cupcakesPerBox=prompt("How many cupcakes does a box of batter make? \nPlease only type in numbers.");
         }
 }
+console.log(cupcakesPerBox);
 
 //created var for cupcakes per box.
 var boxesNeeded=Math.ceil(cupcakes/cupcakesPerBox);
+console.log(boxesNeeded);
+
 var solution=("You need "+boxesNeeded+" boxes to make "+cupcakes);
 console.log(solution);
 alert(solution);
