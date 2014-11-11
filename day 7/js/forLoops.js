@@ -9,6 +9,9 @@
 //Basic for lops
 ///for(initialization of counter; condition to test; incriment of change)
 //i stands for iteration
+
+
+document.write("hello everyone <br /> heyo" );
 for(var i=0;i<20;i++){
     console.log("i="+i);
 }
@@ -21,3 +24,4 @@ for(var j=0;j<5;j++){
         break;
     }
 }
+
