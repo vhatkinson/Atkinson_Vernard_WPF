@@ -11,3 +11,6 @@
 //var for number of cupcakes you want to make
 var numberCupcakes=prompt("We will be finding out how many boxes of cupcake batter it will take to make a certain number of cupcakes!" +
 "\nHow many cupcakes would you like to make?");
+
+//number of cupcakes a box of batter makes
+var cupcakesPerBox=prompt("How many cupcakes does a box of cupcake batter make?");
