@@ -58,21 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forLoop.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/loopsWorksheet/forLoop.html">
+      <file leaf-file-name="forLoop.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/loopsWorksheet/js/forLoop.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.27857143" vertical-offset="0" max-vertical-offset="700">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forLoop.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/loopsWorksheet/js/forLoop.js">
+      <file leaf-file-name="forLoop.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loopsWorksheet/forLoop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23571429" vertical-offset="0" max-vertical-offset="700">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -780,8 +780,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/loopsWorksheet/js/forLoop.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23571429" vertical-offset="0" max-vertical-offset="700">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.27857143" vertical-offset="0" max-vertical-offset="700">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding />
         </state>
       </provider>
