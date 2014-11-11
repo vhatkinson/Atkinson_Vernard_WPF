@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49986cad-85fe-4723-b20f-9ed7ec71b958" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 7/js/day7Year.js" afterPath="$PROJECT_DIR$/day 7/js/day7Year.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 7/js/zombies.js" afterPath="$PROJECT_DIR$/day 7/js/zombies.js" />
     </list>
     <ignored path="Atkinson_Vernard_WPF.iws" />
@@ -74,8 +73,8 @@
       <file leaf-file-name="zombies.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day 7/js/zombies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.62142855" vertical-offset="0" max-vertical-offset="700">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.9" vertical-offset="0" max-vertical-offset="720">
+              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -752,8 +751,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day 7/js/zombies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62142855" vertical-offset="0" max-vertical-offset="700">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.9" vertical-offset="0" max-vertical-offset="720">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
           <folding />
         </state>
       </provider>
