@@ -22,5 +22,5 @@ do{
 console.log(num2);
 
 //finding average
-var avg=(num1*num2)/2;
+var avg=(Number(num1)+Number(num2))/2;
 console.log(avg);
