@@ -9,15 +9,15 @@
 //making a loop for making so many cupcakes if box only makes so many.
 
 //var for number of cupcakes you want to make
-var numberCupcakes=prompt("We will be finding out how many boxes of cupcake batter it will take to make a certain number of cupcakes!" +
+var cupcakes=prompt("We will be finding out how many boxes of cupcake batter it will take to make a certain number of cupcakes!" +
 "\nHow many cupcakes would you like to make?");
 
 //creating while loop if they don't enter info or if doesn't make sense.
-while(numberCupcakes===""||isNaN(numberCupcakes)) {
-    if (numberCupcakes === "") {
-        numberCupcakes = prompt("How many cupcakes would you like to make? \nPlease do not leave blank.");
-    } else {
-        numberCupcakes = prompt("How many cupcakes would you like to make? \nPlease only type in numbers.");
+while(cupcakes===""||isNaN(cupcakes)) {
+    if(cupcakes===""){
+        cupcakes=prompt("How many cupcakes would you like to make? \nPlease do not leave blank.");
+    }else{
+        cupcakes=prompt("How many cupcakes would you like to make? \nPlease only type in numbers.");
     }
 }
 
@@ -25,10 +25,15 @@ while(numberCupcakes===""||isNaN(numberCupcakes)) {
 var cupcakesPerBox=prompt("How many cupcakes does a box of cupcake batter make?");
 
 //created while loop for if user don't enter info or if doesn't make sense.
-while(cupcakesPerBox===""||isNaN(numberCupcakes)) {
-        if (cupcakesPerBox === "") {
-            cupcakesPerBox = prompt("How many cupcakes does a box of batter make? \nPlease do not leave blank.");
-        } else {
-            cupcakesPerBox = prompt("How many cupcakes does a box of batter make? \nPlease only type in numbers.");
+while(cupcakesPerBox===""||isNaN(cupcakes)) {
+        if(cupcakesPerBox===""){
+            cupcakesPerBox=prompt("How many cupcakes does a box of batter make? \nPlease do not leave blank.");
+        }else{
+            cupcakesPerBox=prompt("How many cupcakes does a box of batter make? \nPlease only type in numbers.");
         }
-}        
+}
+
+//created var for cupcakes per box.
+var boxesNeeded=Math.ceil(cupcakes/cupcakesPerBox);
+
+
