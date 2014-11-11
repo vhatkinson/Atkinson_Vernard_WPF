@@ -13,3 +13,8 @@ alert("We are going to find the average of 2 numbers.");
 do{
     var num1=prompt("What is your first number? \nPlease only type in numbers and don't leave blank.");
 }while(num1===""||isNaN(num1));
+
+//creating do while loop for number 2.
+do{
+    var num2=prompt("What is your second number? \nPlease only type in numbers and don't leave blank.");
+}while(num2===""||isNaN(num2));
