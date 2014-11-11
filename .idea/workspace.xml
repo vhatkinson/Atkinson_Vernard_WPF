@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="49986cad-85fe-4723-b20f-9ed7ec71b958" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 7/js/day7Year.js" afterPath="$PROJECT_DIR$/day 7/js/day7Year.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 7/js/zombies.js" afterPath="$PROJECT_DIR$/day 7/js/zombies.js" />
     </list>
     <ignored path="Atkinson_Vernard_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,16 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FirstFile.rtf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day 1/FirstFile.rtf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="forLoops.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day 7/js/forLoops.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,8 +52,8 @@
       <file leaf-file-name="day7Year.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day 7/js/day7Year.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -83,8 +74,8 @@
       <file leaf-file-name="zombies.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day 7/js/zombies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08571429" vertical-offset="0" max-vertical-offset="700">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.62142855" vertical-offset="0" max-vertical-offset="700">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -156,8 +147,8 @@
         <option value="$PROJECT_DIR$/day6Conditionals/conditionals_Wacky/js/conditionalsWacky.js" />
         <option value="$PROJECT_DIR$/day 7/js/forLoops.js" />
         <option value="$PROJECT_DIR$/day 7/beer.html" />
-        <option value="$PROJECT_DIR$/day 7/js/day7Year.js" />
         <option value="$PROJECT_DIR$/day 7/zombies.html" />
+        <option value="$PROJECT_DIR$/day 7/js/day7Year.js" />
         <option value="$PROJECT_DIR$/day 7/js/zombies.js" />
       </list>
     </option>
@@ -743,8 +734,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day 7/js/day7Year.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -761,8 +752,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day 7/js/zombies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08571429" vertical-offset="0" max-vertical-offset="700">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.62142855" vertical-offset="0" max-vertical-offset="700">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding />
         </state>
       </provider>
