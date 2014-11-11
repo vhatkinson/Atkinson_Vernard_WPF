@@ -35,5 +35,7 @@ while(cupcakesPerBox===""||isNaN(cupcakes)) {
 
 //created var for cupcakes per box.
 var boxesNeeded=Math.ceil(cupcakes/cupcakesPerBox);
-
+var solution=("You need "+boxesNeeded+" boxes to make "+cupcakes);
+console.log(solution);
+alert(solution);
 
