@@ -31,7 +31,7 @@ console.log("cat");//false
 
 while(isNaN(min)){
     //loops as long as it is not a number
-    //reprompt the user
+    //re-prompt the user
     min=prompt("what's the minimum value? \nPlease only type in numbers.");
 }*/
 //combine both test together
