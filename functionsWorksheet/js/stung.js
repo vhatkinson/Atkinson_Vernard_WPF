@@ -10,11 +10,13 @@
 var weight=prompt("We will be calculating how many bee stings it would take to kill an animal.\nHow much does the victim weigh in pounds?");
 weight=validation(weight);
 
+var stingDeath=death(weight);
+console.log("It takes "+stingDeath+" amount of stings to kill an animal that weighs "+weight+" Pounds!");
+
 //creating function for user to determine how many bee stings it takes to kill an animal.
 function death(s){
-    return (s*8.666666667);
+    return Math.ceil(s*8.666666667);
 }
-
 
 //creating a validation to see if they input number or not
 function validation(w){
