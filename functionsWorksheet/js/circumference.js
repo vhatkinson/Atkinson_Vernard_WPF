@@ -12,9 +12,13 @@
 var radius=prompt("We will be calculating the circumference of a circle.\n What is the radius of your circle?");
 radius=validation(radius);
 
+//making variable for the circumference
+var circum=circ(radius);
+console.log("The circumference of your circle is "+circum);
+
 //created function to calculate the circumference
 function circ(r){
-    return = (r*2*3.14)
+    return (r*2*3.14)
 }
 
 //make validation for radius.
