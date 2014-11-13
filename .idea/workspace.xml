@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49986cad-85fe-4723-b20f-9ed7ec71b958" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 8/js/day8Scope.js" afterPath="$PROJECT_DIR$/day 8/js/day8Scope.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 8/day8scope.html" afterPath="$PROJECT_DIR$/day 8/day8scope.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 8/js/day8Arguments.js" afterPath="$PROJECT_DIR$/day 8/js/day8Arguments.js" />
     </list>
     <ignored path="Atkinson_Vernard_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,20 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day8Arguments.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="day8Arguments.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day 8/js/day8Arguments.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8142857" vertical-offset="0" max-vertical-offset="700">
+              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8Arguments.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day8Arguments.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day 8/day8Arguments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.088757396" vertical-offset="0" max-vertical-offset="676">
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
               <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
               <folding />
             </state>
@@ -55,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/conditionalsWorksheet/CelsiusToFarenheitConverter.html" />
         <option value="$PROJECT_DIR$/conditionalsWorksheet/CelsiusToFahrenheitConverter.html" />
         <option value="$PROJECT_DIR$/conditionalsWorksheet/gradeLetterCalculator.html" />
         <option value="$PROJECT_DIR$/conditionalsWorksheet/tirePressure.html" />
@@ -106,6 +104,7 @@
         <option value="$PROJECT_DIR$/day 8/js/day8Scope.js" />
         <option value="$PROJECT_DIR$/day 8/js/day8Arguments.html" />
         <option value="$PROJECT_DIR$/day 8/day8Arguments.html" />
+        <option value="$PROJECT_DIR$/day 8/js/day8Arguments.js" />
       </list>
     </option>
   </component>
@@ -709,18 +708,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day 8/js/day8Arguments.js">
+    <entry file="file://$PROJECT_DIR$/day 8/day8Arguments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day 8/day8Arguments.html">
+    <entry file="file://$PROJECT_DIR$/day 8/js/day8Arguments.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.088757396" vertical-offset="0" max-vertical-offset="676">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.8142857" vertical-offset="0" max-vertical-offset="700">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
           <folding />
         </state>
       </provider>
