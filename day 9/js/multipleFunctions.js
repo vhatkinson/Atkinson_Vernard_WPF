@@ -1,7 +1,7 @@
 /**
  * Vernard Atkinson
- * Anonymous
+ * title
  * WPF 1411
- * Nov. 14, 2014
+ * date
  */
 alert("testing 1,2,3");
