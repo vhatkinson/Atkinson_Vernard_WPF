@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49986cad-85fe-4723-b20f-9ed7ec71b958" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/functionsIndustry/js/industryFunctions.js" afterPath="$PROJECT_DIR$/functions/functionsIndustry/js/industryFunctions.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/functionsWacky/js/wackyFunctions.js" afterPath="$PROJECT_DIR$/functions/functionsWacky/js/wackyFunctions.js" />
     </list>
     <ignored path="Atkinson_Vernard_WPF.iws" />
@@ -27,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="industryFunctions.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="industryFunctions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions/functionsIndustry/js/industryFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1035">
-              <caret line="55" column="1" selection-start-line="49" selection-start-column="0" selection-end-line="55" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.8523207" vertical-offset="324" max-vertical-offset="1035">
+              <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -47,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wackyFunctions.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wackyFunctions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions/functionsWacky/js/wackyFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33755276" vertical-offset="0" max-vertical-offset="711">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -1070,18 +1069,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions/functionsIndustry/js/industryFunctions.js">
+    <entry file="file://$PROJECT_DIR$/functions/functionsWacky/js/wackyFunctions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1035">
-          <caret line="55" column="1" selection-start-line="49" selection-start-column="0" selection-end-line="55" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions/functionsWacky/js/wackyFunctions.js">
+    <entry file="file://$PROJECT_DIR$/functions/functionsIndustry/js/industryFunctions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33755276" vertical-offset="0" max-vertical-offset="711">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8523207" vertical-offset="324" max-vertical-offset="1035">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
           <folding />
         </state>
       </provider>
