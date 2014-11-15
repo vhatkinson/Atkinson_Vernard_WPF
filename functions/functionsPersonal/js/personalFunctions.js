@@ -1,7 +1,7 @@
 /**
  * Vernard Atkinson
- * title
+ * Personal Functions
  * WPF 1411
- * date
+ * Nov. 14, 2014
  */
 alert("testing 1,2,3");
