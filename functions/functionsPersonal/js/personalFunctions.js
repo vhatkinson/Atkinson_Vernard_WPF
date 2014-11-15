@@ -11,8 +11,11 @@ var money=prompt("We will be determining what you should buy based on the amount
 
 //validating user input
 while(money===""||isNaN(money)){
-    //re-prompt user
-    money=money("Please type in only numbers. (do not leave blank.)");
+    if (money==="") {
+        money = money("Please do not leave blank.\nHow much money do you have saved up?");
+    }else if (isNaN(money)){
+        money=money("Please type in only numbers.\nHow much money do you have saved up?");
+    }
 }
 //the money input by user now goes into procedure I made.
 budget(money);
