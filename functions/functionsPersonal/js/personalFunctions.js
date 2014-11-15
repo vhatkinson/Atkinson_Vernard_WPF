@@ -15,3 +15,12 @@ while(money===""||isNaN(money)){
     money=money("Please type in only numbers. (do not leave blank.)");
 }
 
+function budget(money) {
+//I made an array for what I can buy with saved money
+    (money <= 0) ? console.log("You need to save up to buy something") :
+        (money <= 100) ? console.log("You could buy groceries and/or gas.") :
+            (money <= 1000) ? console.log("You could buy a gaming system.") :
+                (money <= 10000) ? console.log("You could buy stuff for your truck or apartment.") :
+                    (money <= 100000) ? console.log("You could buy a new car!") :
+                        console.log("You could buy a house.");
+}
