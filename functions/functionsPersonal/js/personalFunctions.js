@@ -8,4 +8,10 @@
 //I am deciding what to buy based on money i have saved up.
 var money=prompt("We will be determining what you should buy based on the amount you have saved up.\n" +
 "How much money do you you have saved up?");
-(
+
+//validating user input
+while(money===""||isNaN(money)){
+    //re-prompt user
+    money=money("Please type in only numbers. (do not leave blank.)");
+}
+
