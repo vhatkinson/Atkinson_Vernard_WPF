@@ -26,7 +26,7 @@ if (pool==="circular"||pool==="Circular"){
     var heightC=validation(hC);
     //anonymous to calculate volume of circular pool
     var cylinder=function(r,h){
-        return Math.PI*r*r*h;
+        return Math.PI*(r*r)*h;
     };
 
 //function call for anon function
