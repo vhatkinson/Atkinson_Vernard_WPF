@@ -14,6 +14,7 @@ while(money===""||isNaN(money)){
     //re-prompt user
     money=money("Please type in only numbers. (do not leave blank.)");
 }
+budget(money);
 
 function budget(money) {
 //I made an array for what I can buy with saved money
