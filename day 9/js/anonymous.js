@@ -16,7 +16,7 @@ var name=function(){
     code goes here
 };
  */
-//funtion call
+//function call
 var returnedArea2=triangleArea(4,5);
 console.log("returned area for normal function"+returnedArea2);
 

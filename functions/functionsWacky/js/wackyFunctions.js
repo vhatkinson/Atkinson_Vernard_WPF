@@ -14,7 +14,7 @@ var testedName=text(name);
 var name2=prompt("what is your name?");
 var testedName2=text(name2);
 
-if(testedName=testedName2){
+if (testedName2==testedName){
     console.log("You most likely don't have a memory loss disease.");
 }else{
     console.log("You may have a memory loss disease.");
