@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49986cad-85fe-4723-b20f-9ed7ec71b958" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 9/js/anonymous.js" afterPath="$PROJECT_DIR$/day 9/js/anonymous.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 9/multipleFunctions.html" afterPath="$PROJECT_DIR$/day 9/multipleFunctions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 9/js/multipleFunctions.js" afterPath="$PROJECT_DIR$/day 9/js/multipleFunctions.js" />
     </list>
     <ignored path="Atkinson_Vernard_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,43 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="anonymous.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day 9/js/anonymous.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multipleFunctions.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="multipleFunctions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day 9/js/multipleFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.85714287" vertical-offset="0" max-vertical-offset="700">
+              <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multipleFunctions.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="multipleFunctions.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day 9/multipleFunctions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="676">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="anonymous.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day 9/anonymous.html">
-          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -76,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day6Conditionals/conditionalsWacky.html" />
         <option value="$PROJECT_DIR$/day6Conditionals/js/conditionalsIndustry.js" />
         <option value="$PROJECT_DIR$/day6Conditionals/js/conditionalsWacky.js" />
         <option value="$PROJECT_DIR$/day6Conditionals/js/conditionalsPersonal.js" />
@@ -127,6 +105,7 @@
         <option value="$PROJECT_DIR$/day 9/anonymous.html" />
         <option value="$PROJECT_DIR$/day 9/js/anonymous.js" />
         <option value="$PROJECT_DIR$/day 9/multipleFunctions.html" />
+        <option value="$PROJECT_DIR$/day 9/js/multipleFunctions.js" />
       </list>
     </option>
   </component>
@@ -733,18 +712,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day 9/js/multipleFunctions.js">
+    <entry file="file://$PROJECT_DIR$/day 9/multipleFunctions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day 9/multipleFunctions.html">
+    <entry file="file://$PROJECT_DIR$/day 9/js/multipleFunctions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.85714287" vertical-offset="0" max-vertical-offset="700">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
           <folding />
         </state>
       </provider>
