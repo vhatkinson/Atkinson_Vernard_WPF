@@ -14,8 +14,10 @@ while(money===""||isNaN(money)){
     //re-prompt user
     money=money("Please type in only numbers. (do not leave blank.)");
 }
+//the money input by user now goes into procedure I made.
 budget(money);
 
+//made an procedure to give answer.
 function budget(money) {
 //I made an array for what I can buy with saved money
     (money <= 0) ? console.log("You need to save up to buy something") :
