@@ -6,25 +6,35 @@
  */
 //alert("testing 1,2,3");
 
-//a basic function
-function calcArea(width,height){
-    var area=width*height;
-    return area;
-}
+
+//adding prompt for calc area
+var width=parseInt(prompt("We will find the area of and a perimeter. What is the Width of the rectangle?"));
+var valWidth=validation(width);
+console.log(valWidth);
+
+validation(6);
+
+//adding prompt for length
+var length=parseInt(prompt("What is the length of your rectangle?"));
+var valLength=validation(length);
+console.log(valLength);
 
 //function call
-var returnedArea= calcArea(6,7);
+var returnedArea= calcPeri(valWidth,valLength);
 console.log(returnedArea);
 
 //procedure -console.log out perimeter
 function calcPeri(width,height){
-    var peri=width*2+height*2;
-    //console.log out out inside of procedure
-    console.log(peri);
+    var peri=(Number(width)*2)+(Number(height)*2);
     //doesn't return value
-    var tempArea=calcArea(width,height);
-    console.log(peri+"is the perimeter and"+tempArea+"is the area.");
+    var tempArea=(Number(width)*Number(height));
+    return (peri+" is the perimeter and "+tempArea+" is the area.");
 }
-//function call for this procedure
-//do not catch with a variable.
-calcPeri(6,7);
+
+function validation(num){
+    while(num===""||isNaN(num)){
+        //re-prompt user
+        num=prompt("Please type in only numbers. (do not leave blank.)");
+    }
+    return num;
+}
